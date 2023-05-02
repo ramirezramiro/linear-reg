@@ -40,15 +40,6 @@ This repository contains scripts in Python 3.10 to implement Simple Linear Regre
 
 ## Content script
 
-<style>
-code.blue {
-  color: #337AB7 !important;
-}
-code.orange {
-  color: #F7A004 !important;
-}
-</style>
-
 - Linear Regression Functions
 - Input Hypothesis commands
     - Input your alpha value:
