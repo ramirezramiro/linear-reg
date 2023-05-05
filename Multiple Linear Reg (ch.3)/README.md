@@ -12,7 +12,7 @@ This repository contains scripts in Python 3.10 to implement Multiple Linear Reg
 
 **3.5** Consider the gasoline mileage data in [Table B.3](https://raw.githubusercontent.com/ramirezramiro/linear-reg/main/Multiple%20Linear%20Reg%20(ch.3)/data(ch.3)/table-b3.csv).
 
-**a.** Fit a Multiple Linear Regression model relating gasoline mileage <em>y</em> (miles per gallon) to engine displacement <em>x1</em> and the number of carburator valves <em>x6</em> 
+**a.** Fit a Multiple Linear Regression model relating gasoline mileage ***y (miles per gallon)*** to ***engine displacement x1*** and the number of  ***carburator valves x6*** 
 
 **b.** Construct the analysis-of-variance table and test for significance of regression.
 
