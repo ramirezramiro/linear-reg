@@ -38,7 +38,6 @@ of ***R_sq*** is?
 
 ![phppANCcD](https://user-images.githubusercontent.com/88079078/236686935-64fcfe89-9c8e-4247-bffb-688053aadfc8.png)
 
-(https://media.cheggcdn.com/media/dba/dba10435-067b-47f2-bd7f-497464dc65ef/phppANCcD.png)
 
 ---
 
