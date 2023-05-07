@@ -36,6 +36,7 @@ of ***R_sq*** is?
 
 **3.24** Show that an alternate computing formula for the regression sum of squares in a linear regression model is
 
+SSR=∑ni=1ˆy2i−nˉy2
 (Input formula)
 
 ---
